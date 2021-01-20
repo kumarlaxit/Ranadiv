@@ -5,6 +5,7 @@
 </p> -->
 
 - I'm DIVYA PRATAP SINGH 🧒🏻 (Same on right) I write code </> on VISUAL STUDIO CODE <img src="src/vs code.png" width="25"> .
+-  I never missed a single opportunity to learn from my colleagues and gained knowledge in every way possible.
 
  - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star⭐️❤️.)
  - 📫 How to reach me: [![Mail 📩📧](src/gmail.png)](mailto:divyapratap589@gmail.com)
